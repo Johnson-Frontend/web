@@ -21,7 +21,7 @@
     </header>
 <br>
     <main>
-        <img class="imagecontainer" src="shenzhencity.png" alt="city of shenzhen">
+        <img class="imagecontainer" src="https://lanis-shenzhen-geography-project.weebly.com/uploads/2/4/7/3/24734726/9736150_orig.jpg" alt="city of shenzhen">
 
         <section>
 
